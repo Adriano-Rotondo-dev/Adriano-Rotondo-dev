@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Adriano Rotondo!
 
-<!--
-**Adriano-Rotondo-dev/Adriano-Rotondo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Junior FullStack Developer
 
-Here are some ideas to get you started:
+Passionate about building modern web experiences, I specialize in **React**, **JavaScript**, **HTML**, and **CSS**. My journey started with curiosity and evolved into crafting e-commerce solutions and experimenting with game mechanics inspired by classics like Pokémon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Projects:** E-commerce apps, mini games, prototypes
+
+---
+
+### 🏆 Favorite Projects
+- [magicPodApp](https://github.com/Adriano-Rotondo-dev/magicPodApp): Personal app prototype in React!
+- [knight-battler-prototype](https://github.com/Adriano-Rotondo-dev/knight-battler-prototype): Game experiment with battle logic.
+- [fluffman-project-work](https://github.com/coluccifrancesco/fluffman-project-work): Team project focused on web development.
+
+---
+
+### 🎮 Hobbies & Passions
+- Gaming (video & tabletop)
+- Reading
+- Card & board games
+- Exploring and decoding hidden rules and mechanics
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](#) <!--(https://www.linkedin.com/in/adriano-rotondo-b6b50b386/)-->
+
+> *"I love discovering the rules beneath the surface—whether in games or code."*
+
+---
+
+![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano-Rotondo-dev&show_icons=true&theme=radical)
