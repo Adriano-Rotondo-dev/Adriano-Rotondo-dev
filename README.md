@@ -28,7 +28,7 @@ Passionate about building modern web experiences, I specialize in **React**, **J
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](#) <!--(https://www.linkedin.com/in/adriano-rotondo-b6b50b386/)-->
+- [LinkedIn](#) <!--[https://www.linkedin.com/in/adriano-rotondo-b6b50b386/]-->
 
 > *"I love discovering the rules beneath the surface—whether in games or code."*
 
