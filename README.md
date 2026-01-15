@@ -31,7 +31,3 @@ Passionate about building modern web experiences, I specialize in **React**, **J
 - [LinkedIn](https://www.linkedin.com/in/adriano-rotondo-b6b50b386/)
 
 > *"I love discovering the rules beneath the surface—whether in games or code."*
-
----
-
-![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano-Rotondo-dev&show_icons=true&theme=radical)
