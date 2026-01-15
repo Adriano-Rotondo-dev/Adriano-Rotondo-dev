@@ -13,7 +13,7 @@ Passionate about building modern web experiences, I specialize in **React**, **J
 ---
 
 ### 🏆 Favorite Projects
-- [magicPodApp](https://github.com/Adriano-Rotondo-dev/magicPodApp): Personal app prototype in React!
+- [LorwynCardComparator](https://github.com/Adriano-Rotondo-dev/magicPodApp): Personal project - SPA project based on my favorite sets of Magic! I'm going to expand on this project with the Scryfall API in the future.
 - [knight-battler-prototype](https://github.com/Adriano-Rotondo-dev/knight-battler-prototype): Game experiment with battle logic.
 - [fluffman-project-work](https://github.com/coluccifrancesco/fluffman-project-work): Team project focused on web development.
 
